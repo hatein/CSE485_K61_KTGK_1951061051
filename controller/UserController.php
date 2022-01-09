@@ -11,7 +11,7 @@
         require_once "view/uesr/index.php";
     }
 
-    function add(){
+    /*function add(){
         $error = '';
         //xử lý submit form
         if (isset($_POST['submit'])) {
@@ -73,6 +73,6 @@
 
         exit();
     
-    }
+    }*/
 }
 ?>
